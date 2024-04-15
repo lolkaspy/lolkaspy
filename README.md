@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm currently working on startup project ([front snippet](https://i.imgur.com/N6nzqAU.png)) with using Laravel + Bootstrap5<br>Also currently (re)learning OOP <br><br>Fun fact: every single day of my life goes with overtimes
-Hobby: EDM (Dubstep forever), Dota2 (7k player xd)
+
+
+Hobbies: EDM (Dubstep forever), Dota2 (7k player xd)
 
 ## 🌐 Socials:
 [VK](https://vk.com/belyashdima) [TG](https://t.me/belyashdima)
